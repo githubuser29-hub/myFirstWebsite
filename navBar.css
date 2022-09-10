@@ -1,7 +1,7 @@
 body{
     background-color: aliceblue;
 }
-nav{
+nav{ 
     display: flex;
     justify-content: space-between;
     padding: 2rem 4rem;

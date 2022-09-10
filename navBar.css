@@ -1,0 +1,57 @@
+body{
+    background-color: aliceblue;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 4rem;
+    background-color: white;
+}
+ul{
+    display: flex;
+    gap: 3rem;
+    list-style: none;
+    align-items: center;
+}
+li{
+    font-size: larger;
+}
+.button{
+    background-color: black;
+    color: white;
+    padding: .5rem 1rem;
+    border-radius: 5rem;
+}
+h3{
+    font-size: x-large;
+}
+.main{
+    padding: 3rem 4rem;
+}
+button{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 1rem 1.5rem;
+    border-radius: 5rem;
+}
+.button{
+    color: white;
+    text-decoration: none;
+    padding: 1rem 2rem;
+    font-size: larger;
+}
+.content{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    padding-top: 4rem;
+}
+img{
+    width: 50rem;
+    height: 30rem;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
